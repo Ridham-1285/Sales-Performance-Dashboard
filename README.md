@@ -20,9 +20,9 @@ Monthly sales trends
 
 📂 Dataset Details
 
-Rows: 100
+Rows: 300
 
-Columns: 8 (Order Date, Region, Product, Category, Quantity, Sales, etc.)
+Columns: 14 (Order Date, Region, Category, Sub-category,Quantity, Sales, etc.)
 
 Data used was fictional sample sales data designed for practice.
 
@@ -95,7 +95,6 @@ README.md	Project documentation
 <img width="1065" height="447" alt="Screenshot 2025-10-29 125358" src="https://github.com/user-attachments/assets/ea06ef0e-e67c-43c8-a7ae-fc688d6bc30d" />
 
 
-Tip: Use a clean image showing the entire dashboard.
 
 🙌 Conclusion
 
